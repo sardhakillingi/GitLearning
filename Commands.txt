@@ -1,0 +1,10 @@
+Git init --> initialize a git repository
+
+git status -->
+
+git add --> selected files or all --> staging
+
+git commit -m "Commit Message"
+
+git commit -am"" ----> Adding and commiting at once
+
